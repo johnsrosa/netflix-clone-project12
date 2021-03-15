@@ -29,7 +29,7 @@ background: black;
         font-size: 3.2rem;
         font-weight: 700;
         line-height: 4.2rem;
-        margin-bottom: 10px;
+        margin-bottom: 11px;
     }
 
     .Jdesc {
